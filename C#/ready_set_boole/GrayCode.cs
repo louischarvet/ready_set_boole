@@ -2,6 +2,7 @@ namespace ReadySetBoole
 {
 	public static class GrayCode
 	{
+		// negatif ?
 		public static uint ToGray(uint n)
 		{
 			uint result = 0;

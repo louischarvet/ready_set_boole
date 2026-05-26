@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography;
 using ReadySetBoole;
 
 class Program
@@ -31,6 +32,11 @@ class Program
 				if (args.Length != 2)
 					exit("Usage for GrayCode: dotnet run 2 <uint>");
 				Console.WriteLine($"The Gray code of {args[1]} is: {GrayCode.ToGray(uint.Parse(args[1]))}");
+				break;
+			case 3:
+				if (args.Length != 2)
+					exit("Usage for EvalFormula: dotnet run 3 <RPN boolean formula>");
+				Console.WriteLine($"{EvalFormula.Evaluate(args[1])}");
 				break;
 			default:
 				exit("Invalid exercise number. Please provide a valid exercise number as the first argument.");
