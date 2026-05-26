@@ -1,0 +1,15 @@
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ready_set_boole.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ready_set_boole.AssemblyInfoInputs.cache
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ready_set_boole.AssemblyInfo.cs
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ready_set_boole.csproj.CoreCompileInputs.cache
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ready_set_boole.sourcelink.json
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/bin/Debug/net8.0/ready_set_boole
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/bin/Debug/net8.0/ready_set_boole.deps.json
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/bin/Debug/net8.0/ready_set_boole.runtimeconfig.json
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/bin/Debug/net8.0/ready_set_boole.dll
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/bin/Debug/net8.0/ready_set_boole.pdb
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ready_set_boole.dll
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/refint/ready_set_boole.dll
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ready_set_boole.pdb
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ready_set_boole.genruntimeconfig.cache
+/home/lucius/00_42/07_post_cc/ready_set_boole/C#/ready_set_boole/obj/Debug/net8.0/ref/ready_set_boole.dll
